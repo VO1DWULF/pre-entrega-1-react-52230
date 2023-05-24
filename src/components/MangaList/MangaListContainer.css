@@ -1,0 +1,30 @@
+.manga-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+.manga-list-item {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border-color: rgb(5, 158, 235);
+}
+
+.manga-list-item h3 {
+    margin-top: 0;
+}
+
+.manga-list-item p {
+    margin: 0;
+}
+
+.manga-list-item img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}

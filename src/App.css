@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-background {
+  background-color: rgb(54, 52, 155);
+  color: rgb(255, 255, 255);
+  font-family: 'Bruno Ace SC', cursive;
+}
+
